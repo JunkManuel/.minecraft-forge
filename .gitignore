@@ -1,3 +1,6 @@
+#Ignore id branch files
+/*.id
+
 #Ignore all temporary files
 **/logs
 **/*.log
