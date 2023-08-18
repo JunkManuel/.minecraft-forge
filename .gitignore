@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 #Ignore branch id files
 /*.id
 
+=======
+>>>>>>> cf9cdd30bf9672fc0d68a7b48270163bf6da3c98
 #Ignore all temporary files
 **/logs
 **/*.log
