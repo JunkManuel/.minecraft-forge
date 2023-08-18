@@ -1,0 +1,14 @@
+#Ignore branch id files
+/*.id
+
+#Ignore all temporary files
+**/logs
+**/*.log
+**/*.lock
+**/*.tmp
+
+#Ignore saves on client
+/client/saves/
+
+#Ignore options on client
+/client/options.txt
