@@ -12,3 +12,6 @@
 
 #Ignore options on client
 /client/options.txt
+
+#Ignore user info
+/client/user*.json
