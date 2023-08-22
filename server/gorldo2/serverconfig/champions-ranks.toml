@@ -13,7 +13,7 @@
 	tier = 1
 	numAffixes = 1
 	defaultColor = 16776960
-	chance = 0.05
+	chance = 0.25
 	growthFactor = 1
 	effects = []
 	presetAffixes = []
@@ -22,7 +22,7 @@
 	tier = 2
 	numAffixes = 2
 	defaultColor = 16750848
-	chance = 0.2
+	chance = 0.5
 	growthFactor = 4
 	effects = []
 	presetAffixes = []
@@ -31,17 +31,25 @@
 	tier = 3
 	numAffixes = 3
 	defaultColor = 6750207
-	chance = 0.2
+	chance = 0.5
 	growthFactor = 9
-	effects = []
+	effects = ["minecraft:strength;0"]
 	presetAffixes = []
 
 [[ranks]]
 	tier = 4
 	numAffixes = 4
 	defaultColor = 13382655
-	chance = 0.2
+	chance = 0.25
 	growthFactor = 16
-	effects = []
-	presetAffixes = []
+	effects = ["minecraft:strength;1"]
+	presetAffixes = ["adaptable"]
 
+[[ranks]]
+    tier = 5
+    numAffixes = 8
+    defaultColor = 16104706
+    chance = 0.35
+    growthFactor = 25
+    effects = ["minecraft:strength;2"]
+    presetAffixes = ["shielding","desecrating","adaptable"]

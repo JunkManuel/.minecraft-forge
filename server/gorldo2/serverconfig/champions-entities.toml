@@ -3,7 +3,7 @@
 [[entities]]
 	entity = "minecraft:creeper"
 	minTier = 0
-	maxTier = 4
+	maxTier = 5
 	presetAffixes = []
 	affixList = ["knocking", "wounding", "paralyzing", "molten"]
 	affixPermission = "BLACKLIST"
