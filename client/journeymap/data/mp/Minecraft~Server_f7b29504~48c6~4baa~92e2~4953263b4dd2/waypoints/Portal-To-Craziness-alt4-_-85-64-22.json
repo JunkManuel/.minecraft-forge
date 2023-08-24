@@ -1,0 +1,23 @@
+{
+  "id": "Portal-To-Craziness-alt4-_-85-64-22",
+  "name": "Portal To Craziness (alt4)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10461088-waypoint-icon.png",
+  "x": -85,
+  "y": 64,
+  "z": 22,
+  "r": 96,
+  "g": 96,
+  "b": 96,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "immersive_portals:alternate4",
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

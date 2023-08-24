@@ -1,0 +1,22 @@
+{
+  "id": "skyslime-geode_-46-27-65",
+  "name": "skyslime geode",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16717827-waypoint-icon.png",
+  "x": -46,
+  "y": 27,
+  "z": 65,
+  "r": 0,
+  "g": 231,
+  "b": 253,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Village_-753-71-155",
+  "name": "Village",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--345086-waypoint-icon.png",
+  "x": -753,
+  "y": 71,
+  "z": -155,
+  "r": 250,
+  "g": 188,
+  "b": 2,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

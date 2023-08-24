@@ -1,0 +1,22 @@
+{
+  "id": "Minita-Firsto_-61-92-13",
+  "name": "Minita Firsto",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4164744-waypoint-icon.png",
+  "x": -61,
+  "y": 92,
+  "z": -13,
+  "r": 192,
+  "g": 115,
+  "b": 120,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
