@@ -46,10 +46,11 @@
 	presetAffixes = ["adaptable"]
 
 [[ranks]]
-    tier = 5
-    numAffixes = 8
-    defaultColor = 16104706
-    chance = 0.35
-    growthFactor = 25
-    effects = ["minecraft:strength;2"]
-    presetAffixes = ["shielding","desecrating","adaptable"]
+	tier = 5
+	numAffixes = 8
+	defaultColor = 16104706
+	chance = 0.35
+	growthFactor = 25
+	effects = ["minecraft:strength;2"]
+	presetAffixes = ["shielding", "desecrating", "adaptable"]
+
